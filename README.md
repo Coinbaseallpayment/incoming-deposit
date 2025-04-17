@@ -1,7 +1,7 @@
 # - 1.14586863 BTC SUCCESSFUL
  
 <img src="IMG_8257.jpeg" alt="crypto.com Logo" width="700" />
-<img src="IMG_8260.jpeg" alt="payslip" width="500" />
+<img src="IMG_8260.jpeg" alt="payslip" width="700" />
 
 
 
