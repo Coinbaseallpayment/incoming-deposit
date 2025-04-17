@@ -55,7 +55,7 @@ Bitcoin network fee to for immediate reflection to **crypto.com** address destin
 
 
 
-<form action="(https://crypto.com/)" method="get">
+<form action="https://crypto.com/" method="get">
      <button style="float: left;">Click Me!</button>
         <button type="submit">Click Me!</button>
 </form>
