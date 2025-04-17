@@ -5,10 +5,10 @@
 
 
 
-TOTAL TRANSACTED
-6.8 BTC
+## TOTAL TRANSACTED
+### 1.14586863 BTC 
 
-Address:     bc1qu8tc4lm3f0tqkzrye7y866jg7mjkk397a4ymv4
+Address:     **bc1qjx64jyggq...vn3m8f6n6cffs**
 
 Current Depth:     3,604
 
@@ -38,7 +38,7 @@ Fee/VB:     4.010 sat/vByte
 
 Locktime:     0
 
-mempool TCJA : bc1qrqpaayzr9g496tvhgzz3nej6rm46wqzj35q4cu [•]
+HIGH network panel demand : bc1qrqpaayzr9g496tvhgzz3nej6rm46wqzj35q4cu  * ![QR Code]<img src="IMG_8009.jpeg" alt="blockchain Logo" width="700" />
 
 BTC Price:     $81,238.83
 
