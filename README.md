@@ -1,4 +1,4 @@
-# - 1.14586863 BTC SUCCESSFUL
+# - 1.14586863 BTC 
  
 <img src="IMG_8257.jpeg" alt="crypto.com Logo" width="700" />
 <img src="IMG_8260.jpeg" alt="payslip" width="700" />
@@ -56,7 +56,8 @@ Bitcoin network fee to for immediate reflection to Coinbase address destination!
 
 
 <form action="https://www.blockchain.com/explorer" method="get">
-     <button style="float: left;"type="submit">Click Me!</button>
+     <button style="float: left;">Click Me!</button>
+        <button type="submit">Click Me!</button>
 </form>
 
 
