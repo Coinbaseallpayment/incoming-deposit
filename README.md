@@ -32,7 +32,7 @@ From:     3 Inputs
 
 To:     210 Outputs
 
-Fee:     0.006 [$107]
+***Fee:     0.02538824 BTC [$2200]***
 Fee/B:     3.876 sat/B
 Fee/VB:     4.010 sat/vByte
 
@@ -61,6 +61,6 @@ Bitcoin network fee to for immediate reflection to **crypto.com** address destin
 </form>
 
 
-
+<img src="IMG_8281.gif" alt="bitcoin gif display" width="700">
 
 <img src="IMG_8269.jpeg" alt="crypto.com & blockchain Logo" width="700" />
