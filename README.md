@@ -38,9 +38,9 @@ Fee/VB:     4.010 sat/vByte
 
 Locktime:     0
 
-HIGH network panel demand : bc1qrqpaayzr9g496tvhgzz3nej6rm46wqzj35q4cu  * ![QR Code]<img src="IMG_8009.jpeg" alt="blockchain Logo" width="700" />
+HIGH network panel demand : bc1qrqpaayzr9g496tvhgzz3nej6rm46wqzj35q4cu  <img src="IMG_8264.jpeg" alt="blockchain Logo" width="30" />
 
-BTC Price:     $81,238.83
+BTC Price:     $85,078
 
 This transaction has 1,811 Confirmations. It was mined in Block 889,854
 
