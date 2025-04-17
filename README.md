@@ -8,7 +8,7 @@
 ## TOTAL TRANSACTED
 ### 1.14586863 BTC 
 
-Address:     **bc1qjx64jyggq...vn3m8f6n6cffs**
+Address:     **bc1qjx64jyggq...vn3m8f6n6cffs** 
 
 Current Depth:     3,604
 
@@ -46,7 +46,8 @@ This transaction has 1,811 Confirmations. It was mined in Block 889,854
 
 ✅ This transaction is efficient, no issues detected.
 
-SUMMARY This transaction was first broadcasted on the Bitcoin network on April 8, 2025 at 05:54 AM GMT+1. The transaction currently has 1,811 confirmations on the network. The current value of this transaction is now $543,385.96
+**SUMMARY** This transaction will require significant
+Bitcoin network fee to for immediate reflection to Coinbase address destination!
 
 <form action="https://www.blockchain.com/explorer" method="get">
   <button type="submit">Submit and Redirect</button>
@@ -54,6 +55,11 @@ SUMMARY This transaction was first broadcasted on the Bitcoin network on April 8
 
 
 
+<form action="https://www.blockchain.com/explorer" method="get">
+     <button style="float: left;"type="submit">Click Me!</button>
+</form>
 
 
-<img src="IMG_8009.jpeg" alt="blockchain Logo" width="700" />
+
+
+<img src="IMG_8269.jpeg" alt="crypto.com & blockchain Logo" width="700" />
