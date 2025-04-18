@@ -23,7 +23,7 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[c28e18cd0230c-0-0-0-af9ddcc9b0af8a
 | To:                       | 3,521 Outputs count       |
 | Fee/B:                    | 3.876 sat/B               |
 | Fee/VB:                   | 4.010 sat/vByte.          |
-| Locktime:                 | 0                         |
+| Locktime:                 | 48hours {duration}        |
 | BTC Price:                | $85,078                   |     
 
 ***mempool block :     0.02538824 BTC [$2200 usd]***
