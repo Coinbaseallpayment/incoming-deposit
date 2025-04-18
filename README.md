@@ -5,7 +5,7 @@
 
 
 
-### Transfer Confirmed [  ***payment confirmation status*** ]
+### Transfer Confirmed [***payment confirmation status***]
 ### 1.14586863 BTC 
 
 Address:     **bc1qjx64jyggq...vn3m8f6n6cffs** 
