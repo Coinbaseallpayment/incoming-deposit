@@ -15,14 +15,17 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[c28e18cd0230c-0-0-0-af9ddcc9b0af8a
 |---------------------------|---------------------------|
 | Height:                   | 892,311                   |
 | Time:                     | 6:34am                    |
+| date:                     | 7th April/25              |
 | Coindays destroyed:       | 57,246                    |
 | Version:                  | 585244672                 |
 | IP Relayed By:            | 162.220.166.93:8333       |
 | Witness tx count:         | 1,175                     |
-| From:                     | 3,359 Inputs count        |
-| To:                       | 3,521 Outputs count       |
-| Fee/B:                    | 3.876 sat/B               |
-| Fee/VB:                   | 4.010 sat/vByte.          |
+| Inputs count:             | 3,359                     |
+| outputs count:            | 3,714                     |
+| From:                     | selfrecoveryunit.cb.id    |
+| To:                       | bc1qjx64jyggq...vn3m8f6n6cffs|
+| Fee/A:                    | 3.876 sat/B               |
+| Fee/B:                    | 4.010 sat/vByte.          |
 | Locktime:                 | 48hours {duration}        |
 | BTC Price:                | $85,078                   |     
 
