@@ -8,38 +8,31 @@
 ### Transfer Confirmed [***payment confirmation status***]
 ### 1.14586863 BTC 
 
-**Hash ID:     8b214f6839d869d6ab805f8c8d0cafd[c28e18cd0230c-0-0-0-af9ddcc9b0af8a] 🔒**
+Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[c28e18cd0230c-0-0-0-af9ddcc9b0af8a] 🔒**
 
-Address:     **bc1qjx64jyggq...vn3m8f6n6cffs** 
+     
+| Address:                  | bc1qjx64jyggq...vn3m8f6n6cffs|
+|---------------------------|---------------------------|
+| Height:                   | 892,311                   |
+| Time:                     | 6:34am                    |
+| Coindays destroyed:       | 57,246                    |
+| Version:                  | 585244672                 |
+| IP Relayed By:            | 162.220.166.93:8333       |
+| Witness tx count:         | 1,175                     |
+| From:                     | 3,359 Inputs count        |
+| To:                       | 3,521 Outputs count       |
+| Fee/B:                    | 3.876 sat/B               |
+| Fee/VB:                   | 4.010 sat/vByte.          |
+| Locktime:                 | 0                         |
+| BTC Price:                | $85,078                   |     
 
-Height:
+***mempool block :     0.02538824 BTC [$2200 usd]***
 
-Hash:
-
-Time:
-
-Coindays destroyed: 
-
-Version:     585244672
-
-IP Relayed By:     162.220.166.93:8333
-
-Witness tx count:
-
-From:     3 Inputs count
-
-To:     210 Outputs count
-
-***Fee:     0.02538824 BTC [$2200]***
-
-Fee/B:     3.876 sat/B
-Fee/VB:     4.010 sat/vByte
-
-Locktime:     0
+|
 
 **Mempool confirmation block:** bc1qrqpaayzr9g496tvhgzz3nej6rm46wqzj35q4cu  <img src="IMG_8264.jpeg" alt="blockchain Logo" width="30" />
 
-BTC Price:     $85,078
+     
 
 **This transaction has {2/3} Confirmations. Kindly confirm all blocks {3/3}**
 
