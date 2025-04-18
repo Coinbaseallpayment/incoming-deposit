@@ -5,7 +5,7 @@
 
 
 
-## Transfer Confirmed [  ***payment confirmation status*** ]
+### Transfer Confirmed [  ***payment confirmation status*** ]
 ### 1.14586863 BTC 
 
 Address:     **bc1qjx64jyggq...vn3m8f6n6cffs** 
@@ -33,18 +33,19 @@ From:     3 Inputs
 To:     210 Outputs
 
 ***Fee:     0.02538824 BTC [$2200]***
+
 Fee/B:     3.876 sat/B
 Fee/VB:     4.010 sat/vByte
 
 Locktime:     0
 
-HIGH network panel demand : bc1qrqpaayzr9g496tvhgzz3nej6rm46wqzj35q4cu  <img src="IMG_8264.jpeg" alt="blockchain Logo" width="30" />
+**Mempool confirmation block:** bc1qrqpaayzr9g496tvhgzz3nej6rm46wqzj35q4cu  <img src="IMG_8264.jpeg" alt="blockchain Logo" width="30" />
 
 BTC Price:     $85,078
 
-This transaction has 1,811 Confirmations. It was mined in Block 889,854
+**This transaction has {2/3} Confirmations. Kindly confirm all blocks {3/3}**
 
-✅ This transaction is efficient, no issues detected.
+✅ This transaction is efficient, no issues detected.✓⃝
 
 **SUMMARY** This transaction will require significant
 Bitcoin network fee to for immediate reflection to **crypto.com** address destination!
