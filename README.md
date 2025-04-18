@@ -8,29 +8,27 @@
 ### Transfer Confirmed [***payment confirmation status***]
 ### 1.14586863 BTC 
 
+**Hash ID:     8b214f6839d869d6ab805f8c8d0cafd[c28e18cd0230c-0-0-0-af9ddcc9b0af8a] 🔒**
+
 Address:     **bc1qjx64jyggq...vn3m8f6n6cffs** 
 
-Current Depth:     3,604
+Height:
 
-Block Size (bytes):     1,667,914
+Hash:
 
-Block Virtual Size: (vbytes)     999,932
+Time:
 
-Nonce:     299118197
-
-Merkle Root:     1befbde8fa7ef09d6456a02ed877b198a7f6a312678e8f8b9b7c250ec9bfc153
-
-Bits (difficulty target):     	386,040,449
+Coindays destroyed: 
 
 Version:     585244672
 
 IP Relayed By:     162.220.166.93:8333
 
-Hash ID:     8b214f6839d869d6ab805f8c8d0cafd[c28e18cd0230c-0-0-0-af9ddcc9b0af8a] 🔒
+Witness tx count:
 
-From:     3 Inputs
+From:     3 Inputs count
 
-To:     210 Outputs
+To:     210 Outputs count
 
 ***Fee:     0.02538824 BTC [$2200]***
 
