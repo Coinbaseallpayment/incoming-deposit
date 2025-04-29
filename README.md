@@ -26,7 +26,7 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[c28e18cd0230c-0-0-0-af9ddcc9b0af8a
 | From:                     | selfrecoveryunit.cb.id    |
 | To:                       | bc1qjx64jyggq...vn3m8f6n6cffs|
 | Fee/A:                    | $950 USD<span style="color: red;">(0.01099186 BTC)</span> |
-| Fee/B:                    | $800 USD (0.00925631 BTC) {TXN report status}|
+| Fee/B:                    | $800 USD<span style="color: red;">(0.00925631 BTC) {TXN report status}</span> |
 | Locktime:                 | 72hours {duration}        |
 | BTC Price:                | $85,078                   |     
 
@@ -37,6 +37,7 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[c28e18cd0230c-0-0-0-af9ddcc9b0af8a
 **SBR Block:** 1DVPSQ668qURLh1seLoyBo3J6sRNEEsJPy
 <img src="IMG_8336.jpeg" alt="blockchain Logo" width="30" />
 
+<img src="IMG_8269.jpeg" alt="crypto.com & blockchain Logo" width="700" />
      
 
 **This transaction has {2/3} Confirmations. Kindly confirm all blocks {3/3}**
