@@ -11,7 +11,7 @@
 Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[c28e18cd0230c-0-0-0-af9ddcc9b0af8a] 🔒**
 
      
-| Address:                  | bc1qjx64jyggq...vn3m8f6n6cffs|
+| Address:                  |bc1qjx64jyggq...vn3m8f6n6cffs|
 |---------------------------|---------------------------|
 | weight/size:              | 632,760                   |
 | Time:                     | 6:34am                    |
