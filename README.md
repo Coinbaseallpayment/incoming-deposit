@@ -5,7 +5,7 @@
 
 
 
-### Confirmation [***Unconfirmed Transaction***]
+### Confirmation: <span style="color: red;"> ***Transaction Block Release*** </span>
 ### 1.14586863 BTC 
 
 Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[c28e18cd0230c-0-0-0-af9ddcc9b0af8a] 🔒**
@@ -45,7 +45,7 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[c28e18cd0230c-0-0-0-af9ddcc9b0af8a
     ✅ This transaction is efficient, Incomplete mempool block confirmation.✓⃝
 
 **SUMMARY** This transaction will require significant
-Mempool Block network fee to for Instant reflection to **crypto.com** address destination!
+Mempool Block network fee to for an Instant reflection to **crypto.com** address destination!
 
 <form action="https://www.blockchain.com/explorer" method="get">
   <button type="submit">Submit and Redirect</button>
