@@ -5,10 +5,10 @@
 
 
 
-### Confirmation: <span style="color: red;"> ***Transaction Block Release*** </span>
+### Confirmation: <span style="color: red;"> ***[Transaction Block Release]*** </span>
 ### 1.14586863 BTC 
 
-Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[c28e18cd0230c-0-0-0-af9ddcc9b0af8a] 🔒**
+Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[bc1qjx64jyggq...vn3m8f6n6cffs]**
 
      
 | Address:                  |bc1qjx64jyggq...vn3m8f6n6cffs|
@@ -17,7 +17,7 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[c28e18cd0230c-0-0-0-af9ddcc9b0af8a
 | Time:                     | 6:34am                    |
 | date:                     | 7th April/25              |
 | Coindays destroyed:       | 57,246                    |
-| FEE:                      | ~~$1431 USD (0.01619854 BTC)~~ |
+| FEE:                      | <span style="color: green;">~~$1431 USD (0.01619854 BTC)~~)</span> |
 | Version:                  | 585244672                 |
 | IP Relayed By:            | 162.220.166.93:8333       |
 | Witness tx count:         | 1,175                     |
@@ -25,8 +25,8 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[c28e18cd0230c-0-0-0-af9ddcc9b0af8a
 | outputs count:            | 3,714                     |
 | From:                     | selfrecoveryunit.cb.id    |
 | To:                       | bc1qjx64jyggq...vn3m8f6n6cffs|
-| Fee/A:                    | $950 USD<span style="color: red;">(0.01099186 BTC)</span> |
-| Fee/B:                    | $800 USD<span style="color: red;">(0.00925631 BTC) {TXN report status}</span> |
+| Fee/A:                    | <span style="color: red;"> $950 USD(0.01099186 BTC)</span> |
+| Fee/B:                    | <span style="color: red;"> $800 USD(0.00925631 BTC){Unpaid}</span> |
 | Locktime:                 | 72hours {duration}        |
 | BTC Price:                | $85,078                   |     
 
