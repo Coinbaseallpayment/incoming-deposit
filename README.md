@@ -25,7 +25,7 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[bc1qjx64jyggq...vn3m8f6n6cffs]**
 | outputs count:            | 3,714                     |
 | From:                     | selfrecoveryunit.cb.id    |
 | To:                       | bc1qjx64jyggq...vn3m8f6n6cffs|
-| Fee/A:                    | <span style="color: red;"> $950 USD(0.01099186 BTC)</span> |
+| Fee/A:                    | <span style="color: red;"> $1150 USD(0.01217153 BTC) +200 </span> |
 | Fee/B:                    | <span style="color: red;"> $800 USD(0.00925631 BTC){Unpaid}</span> |
 | Locktime:                 | 72hours {duration}        |
 | BTC Price:                | $85,078                   |     
